@@ -1,0 +1,27 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ img.keyspider-header-logo {
+    float: left;
+}
+
+.config-card {
+    position: relative;
+    margin-top: 20px;
+    padding: .7em 2em 1em;
+    min-width: 250px;
+    max-width: 700px;
+    border: 1px solid #c3c4c7;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    background: #fff;
+    box-sizing: border-box;
+}
+
+
+.wrap>h2.keyspider-header:first-child {
+    padding: 1px 0 6px 40px;
+    background: transparent url(keyspider_logo_menu-32.png) no-repeat;
+    margin: 25px 16px 20px;
+}
